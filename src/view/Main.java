@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application{
 
-    private static CarRental carRental = new CarRental();
+    private static CarRental carRental = CarRental.getInstance();
     private static Stage primaryStage;
 
     @Override

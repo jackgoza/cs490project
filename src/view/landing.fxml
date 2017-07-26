@@ -16,7 +16,8 @@
             </columns>
         </TableView>
         <TextField fx:id="searchTextField" layoutX="35.0" layoutY="47.0" prefHeight="25.0" prefWidth="380.0" />
-        <Button fx:id="searchButton" layoutX="434.0" layoutY="47.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="81.0" text="Search" />
+        <Button fx:id="searchButton" layoutX="434.0" layoutY="47.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="81.0"
+                text="Search"/>
         <Button fx:id="rentCarButton" layoutX="35.0" layoutY="95.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="91.0" text="Rent Car" />
         <Button fx:id="rentedCarButton" layoutX="166.0" layoutY="95.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="102.0" text="Rented Cars" />
     </children>
